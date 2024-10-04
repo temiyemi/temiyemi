@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Gen AI applications using LangChain
-- 🌱 I’m currently studying at the [University of London](https://london.ac.uk)
+- 🔭 I’m currently working on agentic Gen AI applications using LangChain and CrewAI
 - 📫 How to reach me: send an email to [temi.yemi@gmail.com](mailto:temi.yemi@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also design hand-made home furniture as a creative outlet when I'm not coding
